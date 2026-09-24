@@ -12,7 +12,7 @@ export default function AuthLayout({
       {/* Header */}
       <header className="border-b border-slate-200 bg-white py-4 px-6">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2.5">
+          <Link href="/dashboard" className="flex items-center gap-2.5">
             <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-[#0f2744] text-white">
               <Layers className="h-5 w-5 text-[#38bdf8]" />
             </div>

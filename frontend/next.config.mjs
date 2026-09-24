@@ -33,6 +33,11 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: "/",
+        destination: "/dashboard",
+        permanent: false,
+      },
+      {
         source: "/whatif-simulator",
         destination: "/simulator",
         permanent: false,
