@@ -1,0 +1,5 @@
+training_center_code,course_name,course_code,trade_sector,duration_hours,duration_months,annual_capacity
+ITI-MH-PUN-01,Electric Vehicle Service Technician,EV-TECH-201,automotive_ev,1200,12,60
+POLY-TN-CBE-04,CNC Machinist & Multi-Axis Programmer,CNC-PROG-301,manufacturing_cnc,1600,18,80
+GSTA-GJ-AHM-02,Solar Photovoltaic Installation & Smart Grid Tech,SOL-GRID-101,renewable_energy,800,6,50
+ITI-MH-PUN-01,Cloud Infrastructure & DevOps Associate,CLD-OPS-401,information_technology,1000,10,40

@@ -1,0 +1,10 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Vocational Courses Registry
+training_center_code,course_name,course_code,trade_sector,duration_hours,duration_months,annual_capacity
+ITI-MH-PUN-01,Electric Vehicle Service & Maintenance Technician,EV-TECH-201,automotive_ev,1200,12,60
+POLY-TN-CBE-04,Industrial Robotics & Multi-Axis CNC Automation,ROB-CNC-301,manufacturing_cnc,1600,18,40
+GSTA-GJ-AHM-02,Solar Photovoltaic & Smart Microgrid Technician,SOL-GRID-101,renewable_energy,800,6,50
+ITI-KA-BEN-03,Biomedical Equipment Maintenance & Dialysis Technology,BIOMED-DIA-201,healthcare_allied,1000,10,30
+NSTI-HR-GUR-01,Cloud DevOps & Container Orchestration Associate,CLD-K8S-401,information_technology,900,9,45
+ITI-MH-PUN-01,Conventional Engine Overhaul & Carburetion Trade (Legacy),ENG-LEG-101,automotive_ev,600,6,40
+POLY-TN-CBE-04,Manual Drafting & Machine Tool Turning (Legacy),MEC-LEG-102,manufacturing_cnc,800,8,30

@@ -1,0 +1,5 @@
+company_name,district,course_code,relevance_score,curriculum_modernity_score,hiring_intent_graduates,feedback_notes
+Tata Motors Passenger EV,Pune,EV-TECH-201,4,3,25,"Course syllabus covers baseline electrical safely, but urgently needs 30+ hours on CAN Bus diagnostics and BMS thermal isolation."
+Bharat Forge Advanced Mobility,Pune,EV-TECH-201,3,2,15,"Graduates understand general wiring but lack hands-on experience using digital oscilloscopes on automotive bus networks."
+LMW Precision Machine Works,Coimbatore,CNC-PROG-301,4,4,30,"Strong foundation on 3-axis mills. Recommending additional simulation hours on 5-axis collision checking."
+Adani Solar Ltd,Ahmedabad,SOL-GRID-101,5,4,20,"High practical readiness for rooftop installation. Would benefit from SCADA grid integration module."

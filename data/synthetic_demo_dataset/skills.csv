@@ -1,0 +1,23 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Standardized Skills Taxonomy
+skill_id,name,slug,category,demand_status,is_emerging,description,is_demo
+SKILL-TECH-001,EV Battery Diagnostics,ev-battery-diagnostics,technical,high_demand,true,Testing balancing and state-of-health analysis of high-voltage Lithium-ion traction batteries,true
+SKILL-TECH-002,Battery Management Systems (BMS),bms-configuration,technical,high_demand,true,BMS telemetry parameter configuration cell balancing and thermal runaway mitigation,true
+SKILL-TECH-003,Automotive CAN Bus Protocol,can-bus-protocol,technical,high_demand,false,Controller Area Network serial communication troubleshooting and bus telemetry analyzers,true
+SKILL-TECH-004,Industrial Robotics Programming,industrial-robotics-programming,technical,high_demand,true,Teach pendant programming kinematics payload calibration and safety interlocks for 6-axis articulated arms,true
+SKILL-TECH-005,5-Axis CNC Milling,5-axis-cnc-milling,technical,high_demand,true,Simultaneous multi-axis kinematic programming CAD/CAM simulation and collision avoidance,true
+SKILL-TECH-006,Grid-Tie Solar Inverter Sizing,grid-tie-inverter-sizing,technical,high_demand,true,Inverter MPPT string matching IEEE 1547 anti-islanding validation and SCADA utility sync,true
+SKILL-TECH-007,Dialysis Machine Calibration,dialysis-machine-calibration,technical,high_demand,true,Pressure transducer calibration ultrafiltration rate verification and blood leak sensor alignment,true
+SKILL-TECH-008,Kubernetes Container Orchestration,kubernetes-orchestration,technical,high_demand,true,Declarative container deployment ingress routing autoscaling and microservices infrastructure,true
+SKILL-TECH-009,G-Code & M-Code Programming,g-code-m-code-programming,tool,stable,false,ISO standard CNC machine tool programming canned cycles and tool offset calculations,true
+SKILL-TECH-010,High Voltage Safety & Lockout/Tagout,high-voltage-safety-loto,compliance_standard,stable,false,OSHA and IS standard high voltage zero-energy verification Arc Flash PPE and Lockout/Tagout,true
+SKILL-TECH-011,Solar PV Array Installation,solar-pv-array-installation,technical,stable,false,Roof-mount mechanical structural anchoring DC combiner box wiring and array grounding,true
+SKILL-TECH-012,Engineering Blueprint Reading,engineering-blueprint-reading,domain_knowledge,stable,false,Geometric Dimensioning and Tolerancing (GD&T) orthographic views and fabrication schematics,true
+SKILL-TECH-013,Pneumatics & Hydraulics Basics,pneumatics-hydraulics-basics,technical,stable,false,Pneumatic actuator circuits directional control valves fluid power safety and manifold assembly,true
+SKILL-TECH-014,Linux System Administration,linux-system-administration,technical,stable,false,Shell scripting systemd service management user permissions and secure SSH administration,true
+SKILL-TECH-015,Sterilization Autoclave Operation,sterilization-autoclave-operation,technical,stable,false,Hospital steam autoclave sterilization cycles biological indicator logging and pressure validation,true
+SKILL-TECH-016,Carburetor Tuning & Overhaul,carburetor-tuning-overhaul,technical,declining,false,Mechanical carburetor jet cleaning float adjustment and idle air mixture screw tuning for legacy internal combustion engines,true
+SKILL-TECH-017,Manual Drafting on Drafting Boards,manual-drafting-drafting-boards,domain_knowledge,declining,false,Manual technical drawing with T-squares compasses drafting boards and tracing linen,true
+SKILL-TECH-018,Conventional Lathe Manual Turning,conventional-lathe-manual-turning,technical,declining,false,Manual stepped shaft turning using handwheel dials single-point high-speed steel cutters without CNC automation,true
+SKILL-TECH-019,Mercury Sphygmomanometer Servicing,mercury-sphygmomanometer-servicing,technical,declining,false,Manual mercury reservoir cleaning glass tube alignment and rubber bulb valve repair,true
+SKILL-TECH-020,On-Premises Tape Backup Storage Archiving,tape-backup-storage-archiving,technical,declining,false,Manual LTO magnetic tape cartridge cycling autoloading cleaning cartridges and physical vault rotation,true

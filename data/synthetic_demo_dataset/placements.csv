@@ -1,0 +1,15 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Historical Placement Outcomes & Graduate Salaries
+course_code,batch_year,total_graduates,placed_graduates,avg_salary_monthly,top_placement_partner
+EV-TECH-201,2024,52,38,24500,Apex Dynamics Mobility Ltd (Synthetic Entity)
+EV-TECH-201,2025,56,46,27500,Apex Dynamics & Veloce E-Mobility (Synthetic Entities)
+ROB-CNC-301,2024,38,34,28000,Precision Multi-Axis Robotics Ltd (Synthetic Entity)
+ROB-CNC-301,2025,40,38,31000,Precision Multi-Axis Robotics & Kalyani Mechatronics (Synthetic Entities)
+SOL-GRID-101,2024,45,36,22000,Helios CleanGrid Solutions (Synthetic Entity)
+SOL-GRID-101,2025,48,42,25500,Helios CleanGrid & BreezePulse Energy (Synthetic Entities)
+BIOMED-DIA-201,2025,28,24,26000,AuraHealth MedTech Devices (Synthetic Entity)
+CLD-K8S-401,2025,42,39,34000,CloudMatrix Edge Systems (Synthetic Entity)
+ENG-LEG-101,2024,35,16,15000,Vintage Motor Spares & Overhaul (Synthetic Entity)
+ENG-LEG-101,2025,32,11,15500,Vintage Motor Spares & Overhaul (Synthetic Entity)
+MEC-LEG-102,2024,28,12,16000,Local Unorganized Machine Workshops
+MEC-LEG-102,2025,25,9,16200,Local Unorganized Machine Workshops

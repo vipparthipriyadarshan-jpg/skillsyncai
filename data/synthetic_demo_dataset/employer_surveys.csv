@@ -1,0 +1,10 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Employer Validation Surveys & Feedback
+company_name,district,course_code,relevance_score,curriculum_modernity_score,hiring_intent_graduates,feedback_notes
+Apex Dynamics Mobility Ltd (Synthetic Entity),Pune,EV-TECH-201,4,3,30,"Graduates have a solid grasp of battery fundamentals and LOTO safety, but our production line requires immediate proficiency in CAN Bus diagnostic analyzers and BMS thermal telemetry."
+Veloce E-Mobility Systems (Synthetic Entity),Pune,EV-TECH-201,3,2,20,"Candidate interview assessments reveal strong foundational knowledge but near zero exposure to vehicle communication bus protocols (CANoe). Recommend adding dedicated practical lab hours."
+Precision Multi-Axis Robotics Ltd (Synthetic Entity),Coimbatore,ROB-CNC-301,5,4,35,"Outstanding training on 5-axis CNC. We urgently need the polytechnic to double its annual intake capacity from 40 to 80 seats because our robotics manufacturing hub cannot find enough skilled programmers."
+Helios CleanGrid Solutions (Synthetic Entity),Ahmedabad,SOL-GRID-101,4,4,25,"Good rooftop installation discipline. Recommending more practical exercises on smart grid anti-islanding inverter relays and utility telemetry."
+AuraHealth MedTech Devices (Synthetic Entity),Bengaluru Urban,BIOMED-DIA-201,4,3,18,"Students understand sterilization protocols, but require more hands-on calibration repetitions on dialysis pressure transducers before independent clinical deployment."
+CloudMatrix Edge Systems (Synthetic Entity),Bengaluru Urban,CLD-K8S-401,5,5,35,"Graduates have high practical readiness on Linux and Kubernetes clusters. Strong curriculum alignment."
+Vintage Motor Spares & Overhaul (Synthetic Entity),Pune,ENG-LEG-101,2,1,2,"Carburetor repair trade has almost zero commercial applicability outside heritage vehicle restoration. We recommend reallocating this workshop capacity to electric powertrains."

@@ -1,0 +1,12 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Vocational Faculty & Trainer Competency Registry
+training_center_code,name,email,qualification,years_experience,skills
+ITI-MH-PUN-01,Sunil Deshmukh,s.deshmukh@iti-pune-demo.gov.in,Diploma in Automobile Engineering,8.5,"High Voltage Safety & Lockout/Tagout, EV Battery Diagnostics"
+ITI-MH-PUN-01,Vikram Patil,v.patil@iti-pune-demo.gov.in,B.Tech Electrical Engineering,4.0,"High Voltage Safety & Lockout/Tagout"
+POLY-TN-CBE-04,K. Murugesan,k.murugesan@poly-cbe-demo.gov.in,M.Tech Production Engineering,12.0,"G-Code & M-Code Programming, 5-Axis CNC Milling, Engineering Blueprint Reading"
+POLY-TN-CBE-04,Revathi Senthil,r.senthil@poly-cbe-demo.gov.in,B.E. Mechatronics,5.5,"Industrial Robotics Programming, Pneumatics & Hydraulics Basics"
+GSTA-GJ-AHM-02,Hiren Joshi,h.joshi@gsta-demo.org.in,B.E. Renewable Energy,6.0,"Solar PV Array Installation, Grid-Tie Solar Inverter Sizing"
+ITI-KA-BEN-03,Ananya Swaminathan,a.swaminathan@iti-ben-demo.gov.in,B.E. Biomedical Instrumentation,7.0,"Sterilization Autoclave Operation, Dialysis Machine Calibration"
+NSTI-HR-GUR-01,Gaurav Singhal,g.singhal@nsti-gurugram-demo.gov.in,M.Sc Computer Science & C-DAC PG-DAC,9.0,"Linux System Administration, Kubernetes Container Orchestration"
+ITI-MH-PUN-01,Bapu Kadam,b.kadam@iti-pune-demo.gov.in,ITI Motor Mechanic Trade Certificate,24.0,"Carburetor Tuning & Overhaul"
+POLY-TN-CBE-04,V. Natarajan,v.natarajan@poly-cbe-demo.gov.in,Diploma in Mechanical Draughtsmanship,28.0,"Manual Drafting on Drafting Boards, Conventional Lathe Manual Turning"

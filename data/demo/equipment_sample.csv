@@ -1,0 +1,6 @@
+training_center_code,equipment_name,trade_sector,quantity_total,quantity_operational,condition_rating
+ITI-MH-PUN-01,EV Traction Battery Cycler 400V 60A,automotive_ev,3,2,operational_good
+ITI-MH-PUN-01,Vector CANoe CAN Bus Protocol Analyzer,automotive_ev,4,3,needs_maintenance
+POLY-TN-CBE-04,Jyoti 3-Axis CNC Vertical Machining Center,manufacturing_cnc,3,3,operational_good
+POLY-TN-CBE-04,DMG Mori 5-Axis Universal Machining Center,manufacturing_cnc,1,0,needs_maintenance
+GSTA-GJ-AHM-02,Solar Array I-V Curve Tracer & Test Bench,renewable_energy,2,2,operational_good

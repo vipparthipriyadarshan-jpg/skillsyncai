@@ -1,0 +1,18 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Curriculum Modules & Syllabus Breakdown
+course_code,module_number,module_title,theory_hours,practical_hours,skills_covered
+EV-TECH-201,1,High Voltage Safety & LOTO Protocols,40,60,"High Voltage Safety & Lockout/Tagout"
+EV-TECH-201,2,Lithium Traction Battery Assembly & SOH Diagnostics,60,140,"EV Battery Diagnostics, Battery Management Systems (BMS)"
+ROB-CNC-301,1,Cartesian CNC Coordinate Foundations & G-Code,50,120,"G-Code & M-Code Programming, Engineering Blueprint Reading"
+ROB-CNC-301,2,Multi-Axis Kinematics & 5-Axis Simultaneous Milling,70,180,"5-Axis CNC Milling, G-Code & M-Code Programming"
+ROB-CNC-301,3,Industrial Robotics Articulated Arm Programming,60,140,"Industrial Robotics Programming, Pneumatics & Hydraulics Basics"
+SOL-GRID-101,1,Solar PV Mounting Structures & DC String Cabling,40,80,"Solar PV Array Installation, Engineering Blueprint Reading"
+SOL-GRID-101,2,Grid-Tie Inverter Synchronization & Safety Protection,60,100,"Grid-Tie Solar Inverter Sizing, High Voltage Safety & Lockout/Tagout"
+BIOMED-DIA-201,1,Clinical Infection Control & Autoclave Sterilization,40,60,"Sterilization Autoclave Operation"
+BIOMED-DIA-201,2,Hemodialysis Machine Hydraulics & Transducer Calibration,60,120,"Dialysis Machine Calibration, Pneumatics & Hydraulics Basics"
+CLD-K8S-401,1,Enterprise Linux Core Administration & Shell Automation,50,80,"Linux System Administration"
+CLD-K8S-401,2,Container Packaging & Kubernetes Fleet Management,60,140,"Kubernetes Container Orchestration, Linux System Administration"
+ENG-LEG-101,1,Multi-Jet Carburetor Calibration & Float Level Adjustment,50,100,"Carburetor Tuning & Overhaul"
+ENG-LEG-101,2,Cast Iron Valve Lapping & Mechanical Timing,40,90,"Carburetor Tuning & Overhaul"
+MEC-LEG-102,1,Orthographic Hand Drafting & Tracing Linen Standards,50,80,"Manual Drafting on Drafting Boards"
+MEC-LEG-102,2,Conventional Centre Lathe Manual Turning & Facing,60,140,"Conventional Lathe Manual Turning"

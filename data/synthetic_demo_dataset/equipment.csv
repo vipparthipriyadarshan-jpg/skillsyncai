@@ -1,0 +1,15 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Workshop Equipment & Lab Infrastructure Registry
+training_center_code,equipment_name,trade_sector,quantity_total,quantity_operational,condition_rating
+ITI-MH-PUN-01,Automated EV Lithium Battery Pack Cycler 400V 60A,automotive_ev,3,2,operational_good
+ITI-MH-PUN-01,Vector CANoe CAN Bus Protocol Analyzer Bench,automotive_ev,4,1,needs_maintenance
+POLY-TN-CBE-04,Jyoti 3-Axis CNC Vertical Machining Center VMC 430,manufacturing_cnc,4,4,operational_good
+POLY-TN-CBE-04,DMG Mori 5-Axis Universal Machining Center,manufacturing_cnc,1,0,non_operational
+POLY-TN-CBE-04,KUKA 6-Axis Articulated Industrial Robot Cybertech,manufacturing_cnc,2,1,needs_maintenance
+GSTA-GJ-AHM-02,Solar Array I-V Curve Tracer & DC Combiner Test Bench,renewable_energy,3,3,operational_good
+GSTA-GJ-AHM-02,Schneider Smart Grid-Tie Inverter Synchronization Skid,renewable_energy,2,2,new_commissioned
+ITI-KA-BEN-03,Fresenius Hemodialysis Simulator Training Unit 4008S,healthcare_allied,2,1,needs_maintenance
+ITI-KA-BEN-03,Tuttnauer Hospital Autoclave Steam Sterilizer Chamber,healthcare_allied,2,2,operational_good
+NSTI-HR-GUR-01,Edge Kubernetes Rack Cluster 64-Core Node Array,information_technology,4,4,new_commissioned
+ITI-MH-PUN-01,Solex Multi-Jet Carburetor Flow Bench Rig,automotive_ev,4,4,obsolete
+POLY-TN-CBE-04,Manual Drafting Boards with Drafting Arm Machines,manufacturing_cnc,30,30,obsolete

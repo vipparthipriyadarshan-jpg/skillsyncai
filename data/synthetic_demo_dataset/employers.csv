@@ -1,0 +1,14 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Employers Registry (Synthetic Demonstration Entities)
+employer_id,company_name,district,sector,company_size,hr_contact_name,hr_contact_email,is_demo
+EMP-SYN-001,Apex Dynamics Mobility Ltd (Synthetic Entity),Pune,automotive_ev,large_multinational,Pooja V. Nair,talent@apexdynamics-demo.org,true
+EMP-SYN-002,Veloce E-Mobility Systems (Synthetic Entity),Pune,automotive_ev,medium_enterprise,Rohan Deshpande,recruitment@veloce-emobility-demo.org,true
+EMP-SYN-003,Precision Multi-Axis Robotics Ltd (Synthetic Entity),Coimbatore,manufacturing_cnc,large_multinational,S. Ramachandran,careers@precision-robotics-demo.org,true
+EMP-SYN-004,Kalyani Mechatronics Works (Synthetic Entity),Pune,manufacturing_cnc,medium_enterprise,Sunita Jadhav,hr@kalyani-mechatronics-demo.org,true
+EMP-SYN-005,Helios CleanGrid Solutions (Synthetic Entity),Ahmedabad,renewable_energy,large_multinational,Deepak C. Mehta,talent@helios-cleangrid-demo.org,true
+EMP-SYN-006,BreezePulse Energy Systems (Synthetic Entity),Ahmedabad,renewable_energy,small_enterprise,Neeta Patel,contact@breezepulse-demo.org,true
+EMP-SYN-007,AuraHealth MedTech Devices (Synthetic Entity),Bengaluru Urban,healthcare_allied,large_multinational,K. Srinivasan,recruiting@aurahealth-medtech-demo.org,true
+EMP-SYN-008,LifePulse Clinical Engineering (Synthetic Entity),Coimbatore,healthcare_allied,medium_enterprise,Meenakshi Sundaram,careers@lifepulse-clinical-demo.org,true
+EMP-SYN-009,CloudMatrix Edge Systems (Synthetic Entity),Bengaluru Urban,information_technology,large_multinational,Arjun V. Rao,careers@cloudmatrix-edge-demo.org,true
+EMP-SYN-010,DataFlow Infrastructures (Synthetic Entity),Gurugram,information_technology,large_multinational,Vikram Saxena,hiring@dataflow-infra-demo.org,true
+EMP-SYN-011,Vintage Motor Spares & Overhaul (Synthetic Entity),Pune,automotive_ev,small_enterprise,Ganesh Kadam,workshop@vintagemotors-demo.org,true

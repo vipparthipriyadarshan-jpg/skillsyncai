@@ -1,0 +1,8 @@
+# Synthetic Demo Data — for demonstration only.
+# Skill Sync AI: Districts Registry
+code,name,state,latitude,longitude,is_demo
+MH-PUN,Pune,Maharashtra,18.5204,73.8567,true
+TN-CBE,Coimbatore,Tamil Nadu,11.0168,76.9558,true
+GJ-AHM,Ahmedabad,Gujarat,23.0225,72.5714,true
+KA-BEN,Bengaluru Urban,Karnataka,12.9716,77.5946,true
+HR-GUR,Gurugram,Haryana,28.4595,77.0266,true

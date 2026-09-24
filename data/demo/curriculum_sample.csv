@@ -1,0 +1,8 @@
+course_code,module_number,module_title,theory_hours,practical_hours,skills_covered
+EV-TECH-201,1,EV Fundamentals & High Voltage Safety,40,60,"High Voltage Safety, Industrial Safety, Lockout/Tagout"
+EV-TECH-201,2,Traction Battery Assembly & SOH Diagnostics,60,140,"EV Battery Diagnostics, BMS Configuration, Cell Balancing"
+EV-TECH-201,3,Vehicle CAN Bus Communication & Telemetry,50,110,"Automotive CAN Bus Protocol, Vehicle Diagnostic Scan Tools"
+CNC-PROG-301,1,Cartesian CNC Foundations & Tooling,60,120,"G-Code & M-Code Programming, Tool Wear Offset Calculation"
+CNC-PROG-301,2,5-Axis Kinematic Machining & CAM,80,220,"5-Axis CNC Milling, Mastercam CAM Simulation, Geometric Tolerancing"
+SOL-GRID-101,1,Solar PV Array & DC Stringing,30,70,"Solar PV Array Installation, DC Combiner Wiring, Array Grounding"
+SOL-GRID-101,2,Smart Grid Inverters & Net Metering,50,90,"Grid-Tie Solar Inverter Sizing, Anti-Islanding Protection, SCADA Monitoring"
